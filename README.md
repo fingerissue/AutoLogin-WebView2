@@ -5,7 +5,7 @@ Microsoft 365 Copilot에서는 로그인 창을 WebView2로 실행시키는데,
 
 **WebView2는 확장 프로그램이 실행되지 않는다**는 점을 간과하여 이전에 만든 확장 프로그램을 사용할 수 없었습니다.
 
-따라서, **Python의 pywinauto(윈도우 GUI 자동화 도구)**를 이용해 새롭게 만들게 되었습니다.
+따라서 Python의 pywinauto(윈도우 GUI 자동화 도구)를 이용해 새롭게 만들게 되었습니다.
 
 ## 실행 환경
 **ONLY Windows 11** (pywinauto를 사용)
